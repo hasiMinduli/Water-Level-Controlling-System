@@ -18,8 +18,6 @@
                 
            
 		   		
-      
-
 ## PCB Design
 This is the Implementation of the PCB in PCB layout mode in Proteus Simulation Software when designing the PCB.
 <p align="center">
